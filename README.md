@@ -47,9 +47,9 @@ A collaborative quest where I mentor my friend [@FelipeMianni](https://github.co
 - 🤝 A true co-op campaign in dev mastery
 
 
-## 🛡️ Sworn Oaths 🛡️
-- Craftsmanship over shortcuts
-- Deep understanding over surface knowledge
+## 🛡️ Core Tenets 🛡️
+- Mastery over shortcuts
+- Growth through challenge, not comfort
 - Sharing knowledge as a way of learning
 
 ## 📫 Let's Connect 📫
