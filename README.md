@@ -6,22 +6,22 @@ I've been a professional software developer since 2012, working across a wide ra
 
 I'm fluent in multiple tech stacks, including:
 
-### 🧑🏽‍💻 Languages & Query Languages
+#### 🧑🏽‍💻 Languages & Query Languages
 - C#, JavaScript, PHP, C, Python, SQL, GraphQL, DAX
-### 📚 Frameworks & Libraries
+#### 📚 Frameworks & Libraries
 - .NET, Blazor, React, Vue, Angular, Solid.js, Svelte, HTMX, Next.js, Nuxt, jQuery, SASS, Pug, Liquid, Hydrogen
-### 🗄️ Databases
+#### 🗄️ Databases
 - SQL Server, PostgreSQL, SQLite, MariaDB, MySQL, MongoDB, Redis
-### ☁️ Cloud & Platforms
+#### ☁️ Cloud & Platforms
 - Azure, AWS, Shopify
-### 🔧 Tools & Services
+#### 🔧 Tools & Services
 - Git, Docker, REST APIs, WebSockets, OAuth2, Power Automate, Power BI, SSAS, Azure Synapse
-### 🚀 DevOps & Workflow
+#### 🚀 DevOps & Workflow
 - Azure DevOps, JIRA
 
 ## 🗺️ Active Quests 🗺️
 
-### 🚀 Quizzical - Real-time quiz game
+#### 🚀 Quizzical - Real-time quiz game
 A multiplayer quiz game featuring real-time quiz rooms powered by WebSockets, built with:
 - React + TypeScript + Tailwind
 - .NET Web API
@@ -30,14 +30,14 @@ A multiplayer quiz game featuring real-time quiz rooms powered by WebSockets, bu
 - Secure custom auth with JWT & refresh token rotation
 - Planned features: Google OAuth2, real-time scoring, room moderation and cool animated visuals
 
-### 🧪 DotnetSandbox - Experimental .NET playground
+#### 🧪 DotnetSandbox - Experimental .NET playground
 An exploratory console app for diving deeper into C#/.NET, including:
 - Built-in data structures
 - Design pattern implementations
 - Experiments with LINQ, delegates, and other foundational topics
 - Aimed to serve as a well documented guide for the core functionanities of .NET
 
-### 🧙‍♂️ Lonson – The Path of the Coder
+#### 🧙‍♂️ Lonson – The Path of the Coder
 
 A collaborative quest where I mentor my friend [@FelipeMianni](https://github.com/FelipeMianni) on his journey into the world of software development. Together, we're leveling up through hands-on experience, crafting real-world apps and learning the tools of the trade.
 
