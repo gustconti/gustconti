@@ -19,7 +19,7 @@ I'm fluent in multiple tech stacks, including:
 ### 🚀 DevOps & Workflow
 - Azure DevOps, JIRA
 
-## 📜 Active Quests 🗺️
+## 🗺️ Active Quests 🗺️
 
 ### 🚀 Quizzical - Real-time quiz game
 A multiplayer quiz game featuring real-time quiz rooms powered by WebSockets, built with:
@@ -47,12 +47,12 @@ A collaborative quest where I mentor my friend [@FelipeMianni](https://github.co
 - 🤝 A true co-op campaign in dev mastery
 
 
-## 🛡️ Sworn Oaths ⚔️
+## 🛡️ Sworn Oaths 🛡️
 - Craftsmanship over shortcuts
 - Deep understanding over surface knowledge
 - Sharing knowledge as a way of learning
 
-## 📫 Let's Connect 📧
+## 📫 Let's Connect 📫
 Feel free to check out my repos or reach out if you're into collaborative projects, mentorship, or just geeking out over software.
 
 ---
