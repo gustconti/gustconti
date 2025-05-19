@@ -26,16 +26,16 @@ A multiplayer quiz game featuring real-time quiz rooms powered by WebSockets, bu
 - React + TypeScript + Tailwind
 - .NET Web API
 - SQL Server
-- SignalR
+- SignalR for real time interactions
 - Secure custom auth with JWT & refresh token rotation
 - Planned features: Google OAuth2, real-time scoring, room moderation and cool animated visuals
 
 #### 🧪 DotnetSandbox - Experimental .NET playground
 An exploratory console app for diving deeper into C#/.NET, including:
-- Built-in data structures
-- Design pattern implementations
-- Experiments with LINQ, delegates, and other foundational topics
-- Aimed to serve as a well documented guide for the core functionanities of .NET
+- 🧩 Built-in data structures
+- 🚜 Design pattern implementations
+- 🥼 Experiments with LINQ, delegates, and other foundational topics
+- 📔 Aimed to serve as a well documented guide for the core functionanities of .NET
 
 #### 🧙‍♂️ Lonson – The Path of the Coder
 
