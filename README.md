@@ -1,4 +1,4 @@
-# 🐙 Hi, I'm Gustavo Conti, welcome to my playground! 🖥️
+# 🐙 Hi, I'm Gustavo Conti, welcome to my playground!
 
 I've been a professional software developer since 2012, working across a wide range of technologies and industries. My experience spans full-stack web development, database design, systems programming, and real-time applications. I enjoy building clean, scalable software and colaborating with others as we grow into the craft.
 
