@@ -16,8 +16,6 @@ I'm fluent in multiple tech stacks, including:
 - Azure, AWS, Shopify
 #### 🔧 Tools & Services
 - Git, Docker, REST APIs, WebSockets, OAuth2, Power Automate, Power BI, SSAS, Azure Synapse
-#### 🚀 DevOps & Workflow
-- Azure DevOps, JIRA, Trello, Movidesk 
 
 ## 🗺️ Active Quests 🗺️
 
