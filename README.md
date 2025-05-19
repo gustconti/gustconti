@@ -49,8 +49,8 @@ A collaborative quest where I mentor my friend [@FelipeMianni](https://github.co
 
 ## 🛡️ Core Tenets 🛡️
 - Mastery over shortcuts
-- Growth through challenge, not comfort
-- Sharing knowledge as a way of learning
+- Growth through challenge
+- Share to learn
 
 ## 📫 Let's Connect 📫
 Feel free to check out my repos or reach out if you're into collaborative projects, mentorship, or just geeking out over software.
